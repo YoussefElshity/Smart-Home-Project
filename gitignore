@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+
+# Ignore temporary / backup Packet Tracer files
+*.bak
+*.tmp
+*.autosave
+
+# Ignore IDE/project settings
+.vscode/
+.idea/
+*.log
